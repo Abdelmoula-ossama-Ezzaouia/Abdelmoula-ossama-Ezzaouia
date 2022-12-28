@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Abdelmoula-ossama-Ezzaouia
+- 👋 Hi, I’m 
+Abdelmoula Ezzaouia
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend 
 - 💞️ I’m looking to collaborate on ...
