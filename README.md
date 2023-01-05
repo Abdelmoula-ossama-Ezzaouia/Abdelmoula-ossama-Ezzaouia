@@ -1,9 +1,8 @@
 - 👋 Hi, I’m 
 Abdelmoula Ezzaouia
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and mobile using Flutter
 - 🌱 I’m currently learning frontend 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Abdelmoula-ossama-Ezzaouia/Abdelmoula-ossama-Ezzaouia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
