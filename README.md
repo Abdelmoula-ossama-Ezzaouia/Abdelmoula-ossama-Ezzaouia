@@ -5,16 +5,16 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 📫 How to reach me: email or instagram
 💬 Ask me about anything
 
-♥️ I enjoy to make people laugh and coding.
-📫 How to reach me: email or instagram
-💬 Ask me about anything
-Connect with me:
-
 
 
 Things I code with
+
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,py,nextjs,git,github,flutter,vite,vim)](https://skillicons.dev)
 
+♥️ I enjoy to make people laugh and coding.
+📫 How to reach me: email or instagram
+💬 Ask me about anything
 Profile Visits
 <!---
 Abdelmoula-ossama-Ezzaouia/Abdelmoula-ossama-Ezzaouia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
