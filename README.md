@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 Youtube Badge Instagram Badge Facebook Badge Linkedin Badge
 
 Things I code with
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,Javascript,react,flutter, Shopify, sass=3)](https://skillicons.dev)
 HTML5 Badge CSS3 Badge Javascript Badge React Badge Next.js Badge Redux Badge SASS Badge Bootstrap Badge Git Badge Nodejs Badge Express.js Badge MongoDB Badge
 
 Profile Visits
