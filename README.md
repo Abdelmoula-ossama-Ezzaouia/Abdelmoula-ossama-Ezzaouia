@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul-baqi Al-hassan</h1>
+<h1 align="center">Hi 👋, I'm Abdelmoula Ezzaouia</h1>
 <h3 align="center">I'm a Front-end Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.</h3>
 
 
